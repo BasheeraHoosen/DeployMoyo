@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\moyo\\Moyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\DeployMoyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\moyo\\Moyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\DeployMoyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\moyo\\Moyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\DeployMoyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj",
         "projectName": "moyoAPI",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\moyo\\Moyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\DeployMoyo\\moyoAPI\\moyoAPI\\moyoAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\moyo\\Moyo\\moyoAPI\\moyoAPI\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\DeployMoyo\\moyoAPI\\moyoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
